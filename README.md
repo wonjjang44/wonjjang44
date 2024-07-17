@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <!-- 본문 내용 영역 -->
-<h2 align="center">📚 Tech Stack 📚</h2>
+<h3 align="center">📚 Tech Stack 📚</h3>
   <div align="center">
       <a href="https://skillicons.dev">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="52" style="width: 54px; height: 54px; margin-right: 0px; margin-bottom: 0px;" />
@@ -78,8 +78,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-  <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp 
+  <img src="https://img.shields.io/badge/intellijidea-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=F37726" />&nbsp
 </div>
 
 <br>
@@ -90,8 +89,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
   <a href="mailto:oka1313@gmail.com">
-    <img
-      src="https://img.shields.io/badge/wonjjang44@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/wonjjang44@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 
