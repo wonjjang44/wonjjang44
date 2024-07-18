@@ -1,7 +1,8 @@
 <!-- 헤더 내용 영역 -->
 <div align="center">
+  <h1>Hello Yang1-_-'s World!!👋</h1>
 
-  ![header](https://capsule-render.vercel.app/api?type=Rounded&color=1e90ff&text=Yang1-_-'s%20World!!👋)
+  <!-- ![header](https://capsule-render.vercel.app/api?type=Rounded&color=1e90ff&text=Yang1-_-'s%20World!!👋) -->
   
 </div>
 
