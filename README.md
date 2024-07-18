@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 </div>
 
-
+<br>
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
@@ -36,9 +36,11 @@
 
 <br>
 
+<!-- 
 <h3 align="center">📫 About Me 📫</h3>
 <div align="center">
-  <!-- <img src="https://img.shields.io/badge/tistory-D14836?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp -->
+  <img src="https://img.shields.io/badge/tistory-D14836?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/wonjjang44@gmail.com-3e65cf?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
 </div>
+-->
 
