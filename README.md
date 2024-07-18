@@ -1,20 +1,22 @@
 ## Hi there 👋
   
 <!-- 헤더 내용 영역 -->
-<center>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonjjang44)](https://solved.ac/wonjjang44/)  
-</center>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonjjang44)](https://solved.ac/wonjjang44/)
+
+
 
 
 <!-- 본문 내용 영역 -->
 <h3 align="center">📚 Tech Stack 📚</h3>
-  <div align="center">
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="52" style="width: 54px; height: 54px; margin-right: 0px; margin-bottom: 0px;" />
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="52" style="width: 54px; height: 54px; margin-right: 0px; margin-bottom: 0px;" />
-    <img src="https://skillicons.dev/icons?i=spring" />
-    <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="50" style="width: 50px; height: 50px; margin-right: 0px; margin-bottom: 0px;" />
-    <img src="https://skillicons.dev/icons?i=javascript,jquery" />
-  </div>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="52" style="width: 54px; height: 54px; margin-right: 0px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="52" style="width: 54px; height: 54px; margin-right: 0px; margin-bottom: 0px;" />
+  <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="50" style="width: 50px; height: 50px; margin-right: 0px; margin-bottom: 0px;" />
+  <img src="https://skillicons.dev/icons?i=javascript,jquery" />
+</div>
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 
 <br>
 
