@@ -1,10 +1,14 @@
 <!-- 헤더 내용 영역 -->
 ### Hello World!👋
 
+<!--
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=wonjjang44&show_icons=true&theme=tokyonight" media="(prefers-color-scheme: dark)"/>  
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+-->
+
+![wonjjang44's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonjjang44&show_icons=true&theme=tokyonight)
 
 
 <!-- 본문 내용 영역 -->
