@@ -53,8 +53,10 @@
 
 [![Tech Blog Badge](http://img.shields.io/badge/Tistory-D14836?style=for-the-badge&logo=tistory&link=https://yang1-log.tistory.com/)](https://yang1-log.tistory.com/)
 
+<!-- 노션 정리 후 주석 해제 예정
 [![Tech Blog Badge](http://img.shields.io/badge/Notion-FFFAFA?style=for-the-badge&logo=notion&&logoColor=black&link=[https://zzsza.github.io/](https://www.notion.so/Spring-Core-c0042abbbfff4465bb806f48ca6b4239?pvs=4))](https://www.notion.so/Spring-Core-c0042abbbfff4465bb806f48ca6b4239?pvs=4)
+-->
 
-
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=url)](url)
 
 
