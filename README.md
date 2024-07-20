@@ -43,14 +43,18 @@
 <br>
 
 <h3 align="">📫 Blog 📫</h3>
+<!--
 <div align="">
   <img src="https://img.shields.io/badge/tistory-D14836?style=for-the-badge&logo=tistory&logoColor=white" href="https://www.notion.so/Spring-Core-c0042abbbfff4465bb806f48ca6b4239?pvs=4
 " />&nbsp
   <img src="https://img.shields.io/badge/notion-FFFAFA?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  <!-- <img src="https://img.shields.io/badge/wonjjang44@gmail.com-3e65cf?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp -->
-</div>
+  <img src="https://img.shields.io/badge/wonjjang44@gmail.com-3e65cf?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+</div> -->
+
+[![Tech Blog Badge](http://img.shields.io/badge/Tistory-D14836?style=for-the-badge&logo=tistory&link=https://yang1-log.tistory.com/)](https://yang1-log.tistory.com/)
+
+[![Tech Blog Badge](http://img.shields.io/badge/Notion-FFFAFA?style=for-the-badge&logo=notion&&logoColor=black&link=[https://zzsza.github.io/](https://www.notion.so/Spring-Core-c0042abbbfff4465bb806f48ca6b4239?pvs=4))](https://www.notion.so/Spring-Core-c0042abbbfff4465bb806f48ca6b4239?pvs=4)
 
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=[https://zzsza.github.io/](https://www.notion.so/Spring-Core-c0042abbbfff4465bb806f48ca6b4239?pvs=4))](https://zzsza.github.io/)
 
 
