@@ -44,7 +44,8 @@
 
 <h3 align="">📫 Blog 📫</h3>
 <div align="">
-    <img src="https://img.shields.io/badge/tistory-D14836?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/tistory-D14836?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/notion-FFFAFA?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   <!-- <img src="https://img.shields.io/badge/wonjjang44@gmail.com-3e65cf?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp -->
 </div>
 
