@@ -57,8 +57,8 @@
 
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/Tistory-D14836?style=for-the-badge&logo=tistory&link=https://yang1-log.tistory.com/)](https://yang1-log.tistory.com/) -->
 
-## 📘 My Learning Platforms
+## 📫 Blog
 
-- 📗 [Blog](https://yang1-log.tistory.com/) – 강의 정리 & 실무 회고
+- 📗 [Tistory](https://yang1-log.tistory.com/) – 개발 일지 & 강의 정리 & 실무 회고
 
 
